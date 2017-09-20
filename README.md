@@ -1,5 +1,8 @@
 # YT ++ Issues
 
+***Background Playback Issues***
+ - If you have Mikoto installed you need to  go  into Mikoto settings and disable  background playback otherwise YT bg playback won’t work.
+
 ***Before posting make sure you are on the latest version of YT ++ on https://beta.unlimapps.com***
 
 Please use the issues portion of this repo to report any issues you find or for feature requests.
